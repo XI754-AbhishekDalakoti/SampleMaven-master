@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testsuite1">
+    <test name="test1">
+        <classes>
+            <class name="OpenBrowserParallel">
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
